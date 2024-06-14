@@ -13,7 +13,7 @@ Welcome to the Robinson Group website. We're interested in looking at chemistry
 in new ways.
 
 Inspired by the biological world around us, we're exploring chemical reactions as
-[self-organising systems](link).
+[self-organising systems]({{< relref "research" >}}).
 
 We're also into applying machine learning and AI for predicting and
 understanding chemical data.
