@@ -1,4 +1,4 @@
-baseURL = './'
+baseURL = 'https://robinson-group-will-f781fd47da40c753d4284f077f206f9073c4812d281.pages.science.ru.nl'
 languageCode = 'en-us'
 title = 'Robinson Group'
 disableKinds = ['taxonomy']
