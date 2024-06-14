@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="frontpage-main">
+    <div class="main-left">
+        {{ .Content }}
+   </div>
+
+    <div class="main-right">
+        {{ $image := resources.Get "/sapling.svg" }}
+        {{ if $image }}
+            <img src="{{ $image.RelPermalink }}" alt="" class="svg">
+        {{ end }}
+    </div>
+</div>
+{{ end }}

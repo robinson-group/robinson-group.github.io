@@ -1,0 +1,8 @@
+<details>
+    <summary class="collapsed">
+        {{ .Get "learn_more" }}
+    </summary>
+    <p class="expanded">
+        {{ .Inner | markdownify }}
+    </p>
+</details>

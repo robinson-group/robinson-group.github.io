@@ -1,0 +1,39 @@
+<nav class="nav-bar">
+
+    <input type="checkbox" id="hamb-toggle"/>
+    <label class="hamb" for="hamb-toggle">
+        <span class="hamb-line"></span>
+    </label>
+
+    <div class="logo">
+      <h1>
+          <a href="{{ .Site.BaseURL }}">
+              Robinson Group
+          </a>
+      </h1>
+    </div>
+
+    {{ $titles := slice "Publications" "Group_members" "Research" }}
+    <div class="nav-buttons">
+        {{ range $titles }}
+            {{ with $.Site.GetPage "page" . }}
+                  <a href="{{ .Permalink }}" >
+                      {{ .Title }}
+                  </a>
+            {{ end }}
+        {{ end }}
+    </div>
+
+    <div class="dropdown">
+        {{ range $titles }}
+            {{ with $.Site.GetPage "page" . }}
+                  <a href="{{ .Permalink }}" >
+                      {{ .Title }}
+                  </a>
+            {{ end }}
+        {{ end }}
+    </div>
+
+
+</nav>
+

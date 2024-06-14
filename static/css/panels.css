@@ -1,0 +1,27 @@
+.panels {
+  width: 100%;
+  gap: 10px;
+  display: flex;
+  padding: 10px 10px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.panels section {
+  flex-grow: 3;
+}
+
+.panels h2 {
+  text-align: center;
+}
+
+.level2 {
+  border-style: none;
+  border-width: 1px;
+  border-radius: var(--border-radius-1);
+  padding: 0px 10px;
+  background-color: var(--wood);
+}
+

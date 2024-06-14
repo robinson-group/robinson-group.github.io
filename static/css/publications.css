@@ -1,0 +1,17 @@
+/* Publications */
+.publication {
+    text-align: left;
+}
+
+    .publication p {
+        padding: 1%;
+    }
+
+    .publication .journal {
+        font-style: italic;
+    }
+
+    .publication .volume {
+        font-weight: bold;
+    }
+

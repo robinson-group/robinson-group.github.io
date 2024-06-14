@@ -1,0 +1,7 @@
+<div class="research-section">
+    {{ with .Get "image" }}
+    {{ $image := resources.Get . }}
+        <img src="{{ $image.RelPermalink }}" alt="", class="research-image">
+    {{ end }}
+    {{ .Inner | markdownify }}
+</div>

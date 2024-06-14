@@ -1,0 +1,167 @@
+/*Nav Bar*/
+.nav-bar {
+    display: inline-block;
+    position: relative;
+    z-index: 999;
+    width: 100%;
+    height: var(--nav-bar-height);
+    background-color: var(--fg);
+    margin: auto;
+    padding: 5px 5px;
+}
+
+/* Nav bar title */
+.nav-bar .logo {
+    display: flex;
+    float: left;
+    height: 100%;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+    .nav-bar .logo a {
+        font-weight: bold;
+        color: var(--leaf);
+        font-family: var(--code-font);
+        font-size: 1.2em;
+    }
+
+    .nav-bar .logo a:visited {
+      color: inherit;
+    }
+
+/*Navigation Buttons*/
+.nav-bar .nav-buttons {
+    display: inline;
+    width: 50%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: 0;
+    overflow-y: hidden;
+}
+
+    .nav-bar .nav-buttons a {
+        float: right;
+        height: var(--nav-bar-height);
+        color: var(--wood);
+        font-family: var(--code-font);
+        font-size: 1.2em;
+        font-weight: bold;
+        line-height: var(--nav-bar-height);
+        padding: 0% 2%;
+        text-align: center;
+        word-wrap: break-word;
+        margin: 0;
+    }
+
+    .nav-bar .nav-buttons a:hover {
+        border-radius: 5px;
+        background-color: var(--blossom);
+        text-decoration: underline;
+        color: var(--sky);
+        transition: all 0.15s ease-in;
+    }
+
+/*Dropdown menu*/
+.dropdown {
+    display: none;
+    position: absolute;
+    top: var(--nav-bar-height);
+    left: 0px;
+    width: 100%;
+    background-color: var(--bg);
+    flex-direction: column;
+    padding: 20px 0px;
+    border-bottom: 5px solid var(--wood)
+}
+
+    .dropdown a {
+        width: 100%;
+        text-align: center;
+    }
+
+
+    .dropdown a:link {
+        font-size: 1.5em;
+        font-weight: bold;
+        font-family: var(--code-font);
+    }
+
+.hamb {
+    display: none;
+    float: left;
+}
+
+#hamb-toggle {
+    display: none;
+}
+
+@media screen and (max-width: 866px){
+
+    .nav-bar .nav-buttons a {
+        display: none;
+        height: 0px;
+    }
+
+    .hamb{
+        display: flex;
+        cursor: pointer;
+        align-items: center;
+        margin-right: 0%;
+        padding: 38px 20px;
+    }
+
+    .hamb-line {
+        position: relative;
+        display: block;
+        height: 4px;
+        width: 24px;
+        background: var(--wood);
+    }
+
+    .hamb-line::before{
+        display: block;
+        position: absolute;
+        top: -7px;
+        content: '';
+        height: 100%;
+        width: 100%;
+        background: var(--wood);
+        transition: all .6s ease-out;
+    }
+
+    .hamb-line::after{
+        display: block;
+        position: absolute;
+        top: 7px;
+        height: 100%;
+        content: '';
+        width: 100%;
+        background: var(--wood);
+        transition: all .6s ease-out;
+    }
+
+    #hamb-toggle:checked ~ .hamb .hamb-line {
+        background: transparent;
+    }
+
+    #hamb-toggle:checked ~ .hamb .hamb-line::before {
+        transform: rotate(-405deg);
+        top:0;
+    }
+
+    #hamb-toggle:checked ~ .hamb .hamb-line::after {
+        transform: rotate(405deg);
+        top: 0;
+    }
+
+    #hamb-toggle:checked ~ .dropdown {
+        display: flex;
+        transition: all 1s linear;
+    }
+
+    .nav-bar .logo a {
+        font-size: 1.0em;
+    }
+
+}

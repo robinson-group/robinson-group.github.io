@@ -1,0 +1,44 @@
+/* Definitions */
+:root {
+    /* Colours */
+    --bg: #fcfcfc;
+    --fg: #4C647A;
+    --leaf: #6c6c6c;
+    --rose: #BC8970;;
+    --blossom: #BC9D70;
+    --sky: #f3f3f3;
+    --water: #39376E;
+    --rock: #484848;
+    --wood: #000000;
+
+    /**/
+    --show-borders: none; /*For aligning*/
+    --border-radius-1: 5px;
+    --nav-bar-height: 75px;
+    --transition-width: 768px;
+    --width-threshold: 768px;
+    --selection-color: var(--fg);
+    --selection-background-color: var(--fg);
+
+    --bar: var(--wood);
+    --highlight: var(--blossom);
+
+    /*Font*/
+    --main-font: Tinos, Garamond, serif;
+    --main-font-size: 16pt;
+    @media screen and (max-width: 866px){
+        --main-font-size: 12pt;
+    }
+    --code-font: Courier New, monospace;
+
+    /*Headings*/
+    --heading-color: var(--wood);
+    --heading-font: Tinos, Garamond, sans-serif;
+    --heading-font-size: 18pt;
+
+    /*Links*/
+    --link-color: var(--water);
+    --link-color-dark: var(--rock);
+    --link-color-hover: var(--fg);
+    --link-color-active: var(--link-color);
+}

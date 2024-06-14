@@ -1,0 +1,14 @@
+<div class="publication">
+    <p>
+    <a href={{ .Get "link" }}>
+        {{ .Inner }}
+    </a>
+    <br>
+    <span class="authors">{{ .Get "authors"}}</span>
+    <span class="journal">{{ .Get "journal"}}</span>
+    <span class="year">{{ .Get "year"}},</span>
+    <span class="volume">{{ .Get "volume"}},</span>
+    <span class="pages">{{ .Get "pages"}},</span>
+    <span class="doi">DOI: {{ .Get "doi"}}</span>
+    </p>
+</div>

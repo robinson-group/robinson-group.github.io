@@ -1,0 +1,103 @@
+@import url("fonts.css");
+@import url("root.css");
+@import url("classes.css");
+@import url("panels.css");
+@import url("nav_bar.css");
+@import url("footer.css");
+@import url("research.css");
+@import url("group_members.css");
+@import url("publications.css");
+@import url("details.css");
+
+html {
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg);
+}
+
+body {
+  margin: auto;
+  width: 100%;
+  min-height: 100%;
+  text-align: left;
+  font-family: var(--main-font);
+  background-color: var(--bg);
+  position: relative;
+}
+
+header {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-clip: border-box;
+
+  width:100%;
+  display: flex;
+  margin: auto;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+
+  border-style: none;
+  border-width: 1px;
+  border-radius: 15px;
+}
+
+p {
+  font-size: var(--main-font-size);
+  text-align: justify;
+  padding: 0 2%;
+}
+
+code {
+  font-family: var(--code-font);
+  font-size: var(--main-font-size);
+}
+
+div.sourceCode {
+  margin: auto;
+}
+
+h1 {
+    color: var(--heading-color);
+    font-family: var(--heading-font);
+    font-size: var(--heading-font-size);
+}
+
+h2 {
+  color: var(--heading-color);
+  font-family: var(--heading-font);
+}
+
+figure {
+  width: 100%;
+}
+
+a:link {
+  color: var(--link-color);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:visited {
+  color: var(--link-color-active);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link-color-hover);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1.title {
+  font-size: 28pt;
+  text-align:center;
+}
+
+div.header-title {
+  width: 100%;
+  display:inline;
+  position:relative;
+}

@@ -1,0 +1,50 @@
+/* Group Members */
+.group-member-line {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
+
+.group-member-line:nth-of-type(even) {
+  background: var(--sky);
+}
+
+.group-member {
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+}
+
+.group-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.group-member figcaption {
+    text-align: center;
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.member {
+    text-align: center;
+}
+
+.member img {
+    display: block;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.member p {
+    display: block;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+}
+

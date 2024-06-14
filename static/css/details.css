@@ -1,0 +1,23 @@
+details {
+  padding: 10px;
+  background-color: var(--sky);
+  color: var(--wood);
+  border-radius: 5px;
+}
+
+details[open] > summary {
+  list-style-type: "◆";
+}
+
+summary {
+  padding: 10px;
+  background-color: var(--sky);
+  border-radius: 5px;
+  list-style-type: "◇";
+  font-weight: bold;
+  font-size: var(--main-font-size);
+}
+
+summary::marker {
+    color: var(--leaf);
+}

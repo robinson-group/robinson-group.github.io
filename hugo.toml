@@ -1,0 +1,5 @@
+baseURL = './'
+languageCode = 'en-us'
+title = 'Robinson Group'
+disableKinds = ['taxonomy']
+markup.goldmark.renderer.unsafe = true

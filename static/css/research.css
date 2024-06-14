@@ -1,0 +1,39 @@
+/* Research */
+
+.research-section {
+    width: 100%;
+    padding: 10px 0px;
+    display: block;
+}
+
+.research-section:nth-of-type(even) {
+    background: var(--sky);
+
+}
+
+.research-section:nth-of-type(odd) {
+    background: var(--bg);
+}
+
+.research-section img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.research-section img svg {
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    padding: 2%;
+}
+
+.research-section:nth-of-type(even) img svg {
+    float: right;
+}
+
+.research-section:nth-of-type(odd) img svg {
+    float: left;
+}
