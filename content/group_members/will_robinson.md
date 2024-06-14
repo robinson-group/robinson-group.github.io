@@ -26,22 +26,23 @@ synthesis under the guidance of Dr. Paul Scattergood. We were predominantly
 interested in how ligand electronic structure would affect the photophysical
 properties of donor-acceptor Pt(II) complexes, if we could create long-lived
 charge-separated states, and whether we could get them to anchor on
-Ti<sub>2</sub> to make dye sensitised solar cells. Being part of Julia's group
+TiO<sub>2</sub> to make dye sensitised solar cells. Being part of Julia's group
 meant that I also learned a lot about time-resolved spectroscopy. Though I have
 still yet to align a laser, I was fortunate enough that some of my learning took
 place in laser labs!
 
-After I graduated from Sheffield, I moved to Cambridge to study for my PhD as
-part of the EPSRC-funded [NanoDTC](https://www.nanodtc.cam.ac.uk/). The first
-year of this program taught all the materials science, physics, chemistry and
-even biology surrounding nanotechnology. It was a great way to see a lot of the
-university, as well as some great scientists and engineers.
+After I graduated from Sheffield, I moved to the University of Cambridge to
+study for my PhD as part of the EPSRC-funded
+[NanoDTC](https://www.nanodtc.cam.ac.uk/). The first year of this program taught
+all the materials science, physics, chemistry and even biology surrounding
+nanotechnology. It was a great way to see a lot of the university, as well as to
+meet and work with some great scientists and engineers.
 
 I joined [Prof. Erwin Reisner's group](http://www-reisner.ch.cam.ac.uk/index.html)
 for my thesis work where I found my way to enzyme electrochemistry and CO{{< sub 2 >}}reduction.
 Through this project, I also worked with [Prof. Judy Hirst](https://www.mrc-mbu.cam.ac.uk/research-groups/hirst-group),
-who taught me a lot. The enzyme was formate dehydrogenase H from *E. Coli*, which,
-which immobilised on an electrode can both reduce CO{{< sub 2 >}} to formate, and
+who taught me a lot. The enzyme was formate dehydrogenase H from *E. coli*, which,
+when immobilised on an electrode can both reduce CO{{< sub 2 >}} to formate, and
 oxidise formate to CO{{< sub 2 >}}. With my colleagues, we collected quite
 extensive data on the steady-state and pre-equilibrium behaviour of FDH and used
 kinetic models to unify and rationalise these data. We made some quite unique
@@ -52,7 +53,7 @@ need semi-artificial photosynthetic devices which out-performed natural
 photosynthesis in a few key ways. In short, they could absorb more wavelengths
 of light, and transfer electrons from water to protons or CO{{< sub 2 >}} more
 efficiently than natural systems. So, artificial photosynthesis: done? Not
-exactly...
+exactly!
 
 Coming from the solar fuels field, I started to getting used to the idea
 that mimicking photosynthesis is a rather linear affair. Light comes in,
