@@ -13,7 +13,7 @@
       </h1>
     </div>
 
-    {{ $titles := slice "Publications" "Group_members" "Research" }}
+    {{ $titles := slice "Contact" "Publications" "Group_members" "Research" }}
     <div class="nav-buttons">
         {{ range $titles }}
             {{ with $.Site.GetPage "page" . }}
