@@ -12,11 +12,13 @@ layout: member
 I'm a group leader at Radboud University Nijmegen. My group investigates complex
 chemical systems, and the interface of Chemistry and AI.
 
+Email: william.robinson [at] ru.nl
+
 {{< expand_section learn_more="More about Will">}}
 
 ## Bio
 
-If you'd l;ke to know more, here's my academic life story:
+If you'd like to know more, here's my academic life story:
 
 When I started me degree, I was quite interested in artificial photosynthesis.
 This interest first led me to working in the group of [Prof. Julia
@@ -58,7 +60,7 @@ exactly!
 Coming from the solar fuels field, I started to getting used to the idea
 that mimicking photosynthesis is a rather linear affair. Light comes in,
 supplies energy to move electrons from water to acceptors like CO{{< sub 2 >}} or
-H{{< sup "\+" >}}. That's hard enough to do with synthetic systems!
+H{{<sup "\+" >}}. That's hard enough to do with synthetic systems!
 But really, natural photosynthesis is so successful and interesting because it
 is a *system* in which many reaction and energy transfer processes are taking
 place simultaneously. Can chemistry be performed and studied as a system? This
