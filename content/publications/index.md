@@ -8,6 +8,20 @@ layout: publications
 # Chemical Reaction Systems
 
 {{< publication
+link="https://www.nature.com/articles/s41586-024-07567-x"
+authors="M. G. Baltussen, T. J. de Jong, Q. Duez, W. E. Robinson, W. T. S. Huck"
+journal="Nature"
+year="2024"
+volume=""
+pages=""
+doi="10.1038/s41586-024-07567-x"
+>}}
+
+Chemical reservoir computation in a self-organizing reaction network
+
+{{< /publication >}}
+
+{{< publication
 link="https://doi.org/10.1021/jacs.3c00908"
 authors="P. van Duppen, E. Daines, W. E. Robinson, W. T. S. Huck"
 journal="J. Am. Chem. Soc."
