@@ -4,11 +4,23 @@
         {{ .Inner }}
     </a>
     <br>
-    <span class="authors">{{ .Get "authors"}}</span>
-    <span class="journal">{{ .Get "journal"}}</span>
-    <span class="year">{{ .Get "year"}},</span>
-    <span class="volume">{{ .Get "volume"}},</span>
-    <span class="pages">{{ .Get "pages"}},</span>
-    <span class="doi">DOI: {{ .Get "doi"}}</span>
+    {{ if (.Get "authors")}}
+        <span class="authors">{{ .Get "authors"}}</span>
+    {{ end }}
+    {{ if (.Get "journal")}}
+        <span class="journal">{{ .Get "journal"}}</span>
+    {{ end }}
+    {{ if (.Get "year")}}
+        <span class="year">{{ .Get "year"}}</span>,
+    {{ end }}
+    {{ if (.Get "volume")}}
+        <span class="volume">{{ .Get "volume"}}</span>,
+    {{ end }}
+    {{ if (.Get "pages")}}
+        <span class="pages">{{ .Get "pages"}}</span>,
+    {{ end }}
+    {{ if (.Get "doi")}}
+        <span class="doi">DOI: {{ .Get "doi"}}</span>
+    {{ end }}
     </p>
 </div>
