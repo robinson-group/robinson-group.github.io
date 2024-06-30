@@ -20,7 +20,7 @@ Email: william.robinson [at] ru.nl
 
 If you'd like to know more, here's my academic life story:
 
-When I started me degree, I was quite interested in artificial photosynthesis.
+When I started my degree, I was quite interested in artificial photosynthesis.
 This interest first led me to working in the group of [Prof. Julia
 Weinstein](https://www.sheffield.ac.uk/mps/people/chemistry-staff/julia-weinstein)
 (University of Sheffield) for a year. I spent much of my time focussed on ligand
@@ -29,9 +29,7 @@ interested in how ligand electronic structure would affect the photophysical
 properties of donor-acceptor Pt(II) complexes, if we could create long-lived
 charge-separated states, and whether we could get them to anchor on
 TiO<sub>2</sub> to make dye sensitised solar cells. Being part of Julia's group
-meant that I also learned a lot about time-resolved spectroscopy. Though I have
-still yet to align a laser, I was fortunate enough that some of my learning took
-place in laser labs!
+meant that I also learned a lot about time-resolved spectroscopy.
 
 After I graduated from Sheffield, I moved to the University of Cambridge to
 study for my PhD as part of the EPSRC-funded
