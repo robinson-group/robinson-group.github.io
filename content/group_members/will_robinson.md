@@ -48,8 +48,8 @@ extensive data on the steady-state and pre-equilibrium behaviour of FDH and used
 kinetic models to unify and rationalise these data. We made some quite unique
 data sets, but we'll see how our conclusions on the mechanism fare...
 
-I spent another postdoctoral year in Erwin's group in which we developed some
-need semi-artificial photosynthetic devices which out-performed natural
+I spent another postdoctoral year in Erwin's group in which we developed
+semi-artificial photosynthetic devices which out-performed natural
 photosynthesis in a few key ways. In short, they could absorb more wavelengths
 of light, and transfer electrons from water to protons or CO{{< sub 2 >}} more
 efficiently than natural systems. So, artificial photosynthesis: done? Not
@@ -78,4 +78,3 @@ systems alongside developing a research programme which interfaces chemistry and
 AI.
 
 {{< /expand_section >}}
-
