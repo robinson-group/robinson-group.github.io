@@ -5,6 +5,22 @@ draft: false
 layout: publications
 ---
 
+# Machine Learning
+
+{{< publication
+link="https://doi.org/10.1039/D4DD00084F"
+authors="S. Hödl, T. Kachman, Y. Bachrach, W. T. S. Huck, W. E. Robinson"
+journal="Digital Discovery"
+year="2024"
+volume="in press"
+pages=""
+doi="10.1039/D4DD00084F"
+>}}
+
+What can Attribution Methods show us about Chemical Language Models?
+
+{{< /publication >}}
+
 # Chemical Reaction Systems
 
 {{< publication
@@ -12,8 +28,8 @@ link="https://www.nature.com/articles/s41586-024-07567-x"
 authors="M. G. Baltussen, T. J. de Jong, Q. Duez, W. E. Robinson, W. T. S. Huck"
 journal="Nature"
 year="2024"
-volume=""
-pages=""
+volume="631"
+pages="549-555"
 doi="10.1038/s41586-024-07567-x"
 >}}
 
