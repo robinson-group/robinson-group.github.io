@@ -33,4 +33,6 @@ inform experimental investigations. Current projects involve the use of Chemical
 Language Models and graph-neural networks for the prediction of aqueous
 solubility and critical micellar concentration.
 
+[Link to publications]({{< ref "publications/index.md#machine-learning" >}})
+
 {{< /research_section >}}
