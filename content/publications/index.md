@@ -12,8 +12,8 @@ link="https://doi.org/10.1039/D4DD00084F"
 authors="S. Hödl, T. Kachman, Y. Bachrach, W. T. S. Huck, W. E. Robinson"
 journal="Digital Discovery"
 year="2024"
-volume="in press"
-pages=""
+volume="3"
+pages="1738-1748"
 doi="10.1039/D4DD00084F"
 >}}
 
