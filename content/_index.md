@@ -31,7 +31,7 @@ Molecules and Materials](https://www.ru.nl/imm/), Radboud University Nijmegen,
 alongside our colleagues in:
 
 - [Huck Group](https://www.hucklab.com/)
-- [Mabesoone Group](https://nl.linkedin.com/in/mathijs-mabesoone-49915770)
+- [Mabesoone Group](https://www.mabesoonelab.nl/)
 - [Korevaar Group](https://www.korevaarlab.com/)
 - [Spruijt Lab](https://spruijtlab.com/)
 - [Velema Lab](https://www.velemalab.com/)
