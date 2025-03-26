@@ -25,16 +25,17 @@
 
     /*Font*/
     --main-font: Tinos, Garamond, serif;
-    --main-font-size: 16pt;
+    --main-font-size: 20pt;
     @media screen and (max-width: 866px){
-        --main-font-size: 12pt;
+        --main-font-size: 16pt;
     }
     --code-font: Courier New, monospace;
 
     /*Headings*/
     --heading-color: var(--wood);
     --heading-font: Tinos, Garamond, sans-serif;
-    --heading-font-size: 18pt;
+    --heading-font-size: 24pt;
+    --heading-font-size-2: 22pt;
 
     /*Links*/
     --link-color: var(--water);

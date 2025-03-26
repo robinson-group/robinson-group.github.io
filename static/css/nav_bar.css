@@ -45,7 +45,7 @@
         height: var(--nav-bar-height);
         color: var(--wood);
         font-family: var(--code-font);
-        font-size: 1.2em;
+        font-size: 1.5em;
         font-weight: bold;
         line-height: var(--nav-bar-height);
         padding: 0% 2%;
@@ -101,6 +101,13 @@
     .nav-bar .nav-buttons a {
         display: none;
         height: 0px;
+    }
+
+    .nav-bar .logo h1 {
+        font-weight: bold;
+        color: var(--wood);
+        font-family: var(--code-font);
+        font-size: 1.5em;
     }
 
     .hamb{
