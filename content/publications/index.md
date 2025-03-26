@@ -9,7 +9,7 @@ layout: publications
 
 {{< publication
 link="https://doi.org/10.1039/D4DD00084F"
-authors="Hödl, Stefan and Hermans, Luc and Dankloff, Pim and Piruska, Aigars and Huck, Wilhelm and Robinson, William"
+authors="S. Hödl, L. Hermans, P. Dankloff, A. Piruska, W. T. S. Huck, W. E. Robinson"
 journal="Digital Discovery"
 year="2025"
 volume=""
@@ -39,7 +39,7 @@ What can Attribution Methods show us about Chemical Language Models?
 
 {{< publication
 link=""
-authors="Thijs de Jong, Astra D. Demertzi, William E. Robinson, Wilhelm T. S. Huck"
+authors="T. de Jong, A. D. Demertzi, W. E. Robinson, W. T. S. Huck"
 journal="Angewandte Chemie International Edition"
 year="2025"
 volume=""
