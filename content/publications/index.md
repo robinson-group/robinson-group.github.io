@@ -38,6 +38,20 @@ What can Attribution Methods show us about Chemical Language Models?
 # Chemical Reaction Systems
 
 {{< publication
+link=""
+authors="Thijs de Jong, Astra D. Demertzi, William E. Robinson, Wilhelm T. S. Huck"
+journal="Angewandte Chemie International Edition"
+year="2025"
+volume=""
+pages=""
+doi="10.1002/anie.202504659"
+>}}
+
+Environmental History is Transferred via Minerals Altering Formose Reaction Pathways
+
+{{< /publication >}}
+
+{{< publication
 link="https://www.nature.com/articles/s41586-024-07567-x"
 authors="M. G. Baltussen, T. J. de Jong, Q. Duez, W. E. Robinson, W. T. S. Huck"
 journal="Nature"
