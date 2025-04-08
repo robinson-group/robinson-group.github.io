@@ -38,7 +38,7 @@ What can Attribution Methods show us about Chemical Language Models?
 # Chemical Reaction Systems
 
 {{< publication
-link=""
+link="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202504659"
 authors="T. de Jong, A. D. Demertzi, W. E. Robinson, W. T. S. Huck"
 journal="Angewandte Chemie International Edition"
 year="2025"
