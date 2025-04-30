@@ -8,7 +8,21 @@ layout: publications
 # Machine Learning
 
 {{< publication
-link="https://doi.org/10.1039/D4DD00084F"
+link="http://dx.doi.org/10.1021/acs.jcim.5c00296"
+authors="Anna C. M. Thöni, W. E. Robinson,  Y. Bachrach, W. T. S. Huck, T. Kachman"
+journal="Journal of Chemical Information and Modeling"
+year="2025"
+volume=""
+pages=""
+doi="10.1021/acs.jcim.5c00296"
+>}}
+
+Modeling Chemical Reaction Networks Using Neural Ordinary Differential Equations
+
+{{< /publication >}}
+
+{{< publication
+link="https://doi.org/10.1039/D4DD00393D "
 authors="S. Hödl, L. Hermans, P. Dankloff, A. Piruska, W. T. S. Huck, W. E. Robinson"
 journal="Digital Discovery"
 year="2025"
