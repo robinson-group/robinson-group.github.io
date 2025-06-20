@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2023-08-31T18:21:18+02:00
+date: 20-06-2025
 draft: false
 layout: publications
 ---
@@ -9,7 +9,7 @@ layout: publications
 
 {{< publication
 link="http://dx.doi.org/10.1021/acs.jcim.5c00296"
-authors="Anna C. M. Thöni, W. E. Robinson,  Y. Bachrach, W. T. S. Huck, T. Kachman"
+authors="A. C. M. Thöni, W. E. Robinson,  Y. Bachrach, W. T. S. Huck, T. Kachman"
 journal="Journal of Chemical Information and Modeling"
 year="2025"
 volume=""

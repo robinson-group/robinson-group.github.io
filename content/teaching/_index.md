@@ -9,6 +9,8 @@ layout: teaching
 
 ## Chemistry and AI
 
-I teach the Chemistry and AI Master's course
-([2024](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=NWI-MOL433&collegejaar=2024))
-at Radboud University Nijmegen. Watch this space for the 2025 edition!
+I teach the Chemistry and AI Master's course at Radboud University Nijmegen
+since 2024. The 2025 edition starts in Period 1 (01/09/2025 to 02/11/2025) you
+can find the course details here:
+[2025](https://ru.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=NWI-MOL433&collegejaar=2025).
+
