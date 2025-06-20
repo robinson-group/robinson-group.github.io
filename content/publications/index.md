@@ -12,8 +12,8 @@ link="http://dx.doi.org/10.1021/acs.jcim.5c00296"
 authors="A. C. M. Thöni, W. E. Robinson,  Y. Bachrach, W. T. S. Huck, T. Kachman"
 journal="Journal of Chemical Information and Modeling"
 year="2025"
-volume=""
-pages=""
+volume="65"
+pages="4346-4352"
 doi="10.1021/acs.jcim.5c00296"
 >}}
 
