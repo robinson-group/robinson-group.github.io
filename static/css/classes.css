@@ -85,7 +85,10 @@
 @media screen and (max-width: 866px) {
     .frontpage-main {
         flex-direction: column;
+        margin-left: 10%;
+        margin-right: 10%;
     }
+
     .main-left {
         width: 100%;
     }
@@ -98,5 +101,6 @@
     .main {
         margin-right: 0%;
         margin-left: 0%;
+        padding: 0% 10%;
     }
 }

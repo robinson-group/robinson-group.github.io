@@ -48,3 +48,9 @@
     margin-right: 20%;
 }
 
+@media screen and (max-width: 866px) {
+    .member p {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}

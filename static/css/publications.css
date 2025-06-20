@@ -3,15 +3,20 @@
     text-align: left;
 }
 
+.publication p {
+    padding: 1%;
+}
+
+.publication .journal {
+    font-style: italic;
+}
+
+.publication .volume {
+    font-weight: bold;
+}
+
+@media screen and (max-width: 866px) {
     .publication p {
-        padding: 1%;
+        padding: 1% 10%;
     }
-
-    .publication .journal {
-        font-style: italic;
-    }
-
-    .publication .volume {
-        font-weight: bold;
-    }
-
+}

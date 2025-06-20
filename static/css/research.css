@@ -37,3 +37,9 @@
 .research-section:nth-of-type(odd) img svg {
     float: left;
 }
+
+@media screen and (max-width: 866px) {
+    .research-section p {
+        padding: 10%;
+    }
+}
