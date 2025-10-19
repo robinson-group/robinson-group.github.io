@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 20-06-2025
+date: 2025-06-20
 draft: false
 layout: publications
 ---
@@ -26,8 +26,8 @@ link="https://doi.org/10.1039/D4DD00393D "
 authors="S. Hödl, L. Hermans, P. Dankloff, A. Piruska, W. T. S. Huck, W. E. Robinson"
 journal="Digital Discovery"
 year="2025"
-volume=""
-pages=""
+volume="4"
+pages="1176-1187"
 doi="10.1039/D4DD00393D"
 >}}
 
@@ -56,8 +56,8 @@ link="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202504659"
 authors="T. de Jong, A. D. Demertzi, W. E. Robinson, W. T. S. Huck"
 journal="Angewandte Chemie International Edition"
 year="2025"
-volume=""
-pages=""
+volume="64"
+pages="e202504659"
 doi="10.1002/anie.202504659"
 >}}
 
