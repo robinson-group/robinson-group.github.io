@@ -8,6 +8,20 @@ layout: publications
 # Machine Learning
 
 {{< publication
+link="https://doi.org/10.1038/s41524-025-01842-9"
+authors="P. F. J. Dankloff, M. van Rossum, M. G. Baltussen, S. L. Hödl, D. H. W. ten Klooster, E. van de Voort, P. A. Korevaar, W. T. S. Huck, W. E. Robinson "
+journal="npj Computational Materials"
+year="2025"
+volume="11"
+pages=""
+doi="10.1038/s41524-025-01842-9"
+>}}
+
+An autonomous robotic module for efficient surface tension measurements of formulations
+
+{{< /publication >}}
+
+{{< publication
 link="http://dx.doi.org/10.1021/acs.jcim.5c00296"
 authors="A. C. M. Thöni, W. E. Robinson,  Y. Bachrach, W. T. S. Huck, T. Kachman"
 journal="Journal of Chemical Information and Modeling"
