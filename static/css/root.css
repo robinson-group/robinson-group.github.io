@@ -25,9 +25,9 @@
 
     /*Font*/
     --main-font: Tinos, Garamond, serif;
-    --main-font-size: 20pt;
+    --main-font-size: 12pt;
     @media screen and (max-width: 866px){
-        --main-font-size: 16pt;
+        --main-font-size: 10pt;
     }
     --code-font: Courier New, monospace;
 
