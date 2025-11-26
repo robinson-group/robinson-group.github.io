@@ -23,7 +23,7 @@
         font-weight: bold;
         color: var(--leaf);
         font-family: var(--code-font);
-        font-size: 1.2em;
+        font-size: 1.0em;
     }
 
     .nav-bar .logo a:visited {
@@ -45,7 +45,7 @@
         height: var(--nav-bar-height);
         color: var(--wood);
         font-family: var(--code-font);
-        font-size: 1.5em;
+        font-size: 1.4em;
         font-weight: bold;
         line-height: var(--nav-bar-height);
         padding: 0% 2%;
@@ -96,7 +96,7 @@
     display: none;
 }
 
-@media screen and (max-width: 1050px){
+@media screen and (max-width: 1195px){
 
     .nav-bar .nav-buttons a {
         display: none;
