@@ -9,16 +9,8 @@ draft: false
 
 Hello there,
 
-Welcome to the Robinson Group website. We're interested in looking at chemistry
-in new ways.
-Inspired by the biological world around us, we're exploring chemical reactions as
-[self-organising systems]({{< relref "research" >}}).
-We're also into applying machine learning and AI for predicting and
-understanding chemical data.
-Once upon a time, we worked on artificial photosynthesis and enzyme
-(photo-)electrocatalysis. One day, we'll get back to it!
+Welcome to the Robinson Group website. We're interested in looking at chemistry in new ways.
+Inspired by the biological world around us, we're exploring chemical reactions as [self-organising systems]({{< relref "research" >}}).
+We're also into applying machine learning and AI for predicting and understanding chemical data.
 
-We are embedded in the Department of Physical Organic Chemistry, [Institute for
-Molecules and Materials](https://www.ru.nl/imm/), Radboud University Nijmegen,
-the [Big Chemistry Consortium](https://bigchemistry.nl/), developing the
-RobotLab.
+We are embedded in the Department of Physical Organic Chemistry, [Institute for Molecules and Materials](https://www.ru.nl/imm/), Radboud University Nijmegen, the [Big Chemistry Consortium](https://bigchemistry.nl/), developing the RobotLab.
