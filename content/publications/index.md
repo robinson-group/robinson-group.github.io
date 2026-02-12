@@ -5,7 +5,7 @@ draft: false
 layout: publications
 ---
 
-# Machine Learning
+# Automation, Machine Learning and Chemistry
 
 {{< publication
 link="https://doi.org/10.1038/s41524-025-01842-9"
@@ -64,6 +64,20 @@ What can Attribution Methods show us about Chemical Language Models?
 {{< /publication >}}
 
 # Chemical Reaction Systems
+
+{{< publication
+link="https://www.nature.com/articles/d41586-025-02821-2"
+authors="William E. Robinson"
+journal="Nature"
+year="2025"
+volume="645"
+pages="861-862"
+doi="10.1038/d41586-025-02821-2"
+>}}
+
+Robotic system takes chemistry into hyperspace (News & views)
+
+{{< /publication >}}
 
 {{< publication
 link="https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202504659"
