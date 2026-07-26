@@ -8,6 +8,20 @@ layout: publications
 # Automation, Machine Learning and Chemistry
 
 {{< publication
+link="https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15006392/v1"
+authors="S. L. Hödl, P. F. J. Dankloff, A. A. Korotkevich, W. T. S. Huck, W. E. Robinson"
+journal="ChemRxiv"
+year="2026"
+volume=""
+pages=""
+doi="10.26434/chemrxiv.15006392/v1"
+>}}
+
+<i>Preprint:</i> SurfPro2: a relational database, curation workflow and repository of surfactant physicochemical data
+
+{{< /publication >}}
+
+{{< publication
 link="https://doi.org/10.1038/s41524-025-01842-9"
 authors="P. F. J. Dankloff, M. van Rossum, M. G. Baltussen, S. L. Hödl, D. H. W. ten Klooster, E. van de Voort, P. A. Korevaar, W. T. S. Huck, W. E. Robinson "
 journal="npj Computational Materials"
@@ -138,6 +152,20 @@ prebiotic reaction network
 {{< /publication >}}
 
 # Artificial Photosynthesis
+
+{{< publication
+link="https://doi.org/10.1021/acs.chemrev.6c00095"
+authors="Y. Liu, B Q. L. Low, W. E. Robinson, R. R. Manuel, A. R. Oliveira, I. A. C. Pereira, E. Reisner"
+journal="Chemical Reviews"
+year="2026"
+volume="126"
+pages="8034–8088"
+doi="10.1021/acs.chemrev.6c00095"
+>}}
+
+Semiartificial CO2 Fixation Using Metal-Dependent Formate Dehydrogenase
+
+{{< /publication >}}
 
 {{< publication
 link="https://doi.org/10.1021%2Fjacs.9b09575"
