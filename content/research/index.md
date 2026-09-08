@@ -9,12 +9,10 @@ layout: research
 
 # Chemical Reaction Systems
 
-We look at chemistry as a collection of compounds behaving as systems. Rather
-than looking at chemistry molecule-by-molecule, we take a top-down approach, and
-investigate their collective behaviour. This view is heavily inspired by the way
-biological systems work. Experimentally speaking, flow chemistry and
-chromatographic reaction characterisation are key techniques in our lab', and we
-call on methods from data science and machine learning to understand our data.
+We look at chemistry as a collection of compounds behaving as systems.
+Rather than looking at chemistry molecule-by-molecule, we take a top-down approach, and investigate their collective behaviour.
+This view is heavily inspired by the way biological systems work.
+Experimentally speaking, flow chemistry and chromatographic reaction characterisation are key techniques in our lab', and we call on methods from data science and machine learning to understand our data.
 
 [Link to publications]({{< ref "publications/index.md#chemical-reaction-systems" >}})
 
@@ -24,14 +22,10 @@ call on methods from data science and machine learning to understand our data.
 
 # Machine Learning and Chemistry
 
-Chemical properties and reactivity are complex, especially in mixtures of
-compounds. We are exploring the relationship between molecular structure,
-solution composition, and properties using machine learning and AI. We're
-interested in how these models can be trained efficiently with experimental
-data, how they can provide useful predictions, and how they may be used to
-inform experimental investigations. Current projects involve the use of Chemical
-Language Models and graph-neural networks for the prediction of aqueous
-solubility and critical micellar concentration.
+Chemical properties and reactivity are complex, especially in mixtures of compounds.
+We are exploring the relationship between molecular structure, solution composition, and properties using machine learning and AI.
+We're interested in how these models can be trained efficiently with experimental data, how they can provide useful predictions, and how they may be used to inform experimental investigations.
+Current projects involve the use of Chemical Language Models and graph-neural networks for the prediction of aqueous solubility and critical micellar concentration.
 
 [Link to publications]({{< ref "publications/index.md#machine-learning" >}})
 
