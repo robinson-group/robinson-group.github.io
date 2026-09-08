@@ -20,6 +20,13 @@ draft: false
 {{< create_div class="group-member-line">}}
 
   {{< group_member
+    image="/images/flora-cardoso.png"
+    title="Flora Cardoso"
+    link="/group_members/flora-cardoso"
+    role="PhD Student"
+  >}}
+
+  {{< group_member
     image="/images/stefan-hoedl.jpg"
     title="Stefan Hödl"
     link="/group_members/stefan-hoedl"
