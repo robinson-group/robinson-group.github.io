@@ -15,10 +15,6 @@ draft: false
     role="Group Leader"
   >}}
 
-{{< /create_div >}}
-
-{{< create_div class="group-member-line">}}
-
   {{< group_member
     image="/images/flora-cardoso.png"
     title="Flora Cardoso"
@@ -32,6 +28,11 @@ draft: false
     link="/group_members/stefan-hoedl"
     role="PhD Student"
   >}}
+
+{{< /create_div >}}
+
+{{< create_div class="group-member-line">}}
+
 
   {{< group_member
     image="/images/pim-dankloff.jpg"
@@ -47,14 +48,17 @@ draft: false
     role="PhD Student"
   >}}
 
-{{< /create_div >}}
 
-{{< create_div class="group-member-line">}} {{< group_member
+{{< group_member
     image="/images/alexander-korotkevich.jpg"
     title="Alexander Korotkevich"
     link="/group_members/alexander-korotkevich"
     role="Postdoctoral Researcher"
   >}}
+
+{{< /create_div >}}
+
+{{< create_div class="group-member-line">}}
 
   {{< group_member
     image="/images/abib-olatunde.jpg"
